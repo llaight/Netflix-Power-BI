@@ -31,14 +31,39 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## Key Insights
 
-1. In the Netflix Data, the count for Movie (6,131) was higher than TV Show (2,676).
-2. The  Top 3 show category in Netflix are International Movies with 2752, followed by Dramas 2427 and Comedies 1647
-3. In comes  with Ratings, the highest number is TV-MA (mature audience) with 320. This shows that the Netflix target audience are 18 and above years old.
-4. Most of the shows they publish are shows that was released in recent years, which based on the data, are usually  from 2014 to current. this indicate of wanting 
-   to keep in the trend
-5. And almost of the shows are came from the United States with 4522 shows followed by India and Unite Kingdom.
+1. Show Distribution:
+
+The count for Movies is 6,130, and for TV Shows, it's2,680. This confirms that Netflix has a larger collection of movies (70% of total content) than TV shows (30%).
 
 
 
+2. Top Show Categories:
+
+The top three show categories are:
+
+International Movies: 2,752
+
+Dramas: 2,427
+
+Comedies: 1,647
 
 
+These categories represent the most popular types of shows on Netflix, showing a strong preference for diverse, global content as well as emotional and comedic storytelling.
+
+
+
+3. Target Audience:
+
+TV-MA (Mature Audience) is the most common rating, with 3,207 shows. This indicates that Netflix’s primary target audience consists of viewers 18 years and older, as most of the content is aimed at adults.
+
+
+
+4. Release Year Trend:
+
+The data shows that most Netflix shows were released after 2014, indicating that Netflix focuses on newer content, likely to stay current with trends and appeal to modern audiences.
+
+
+
+5. Geographic Focus:
+
+Netflix content is predominantly from the United States, with 4,522 shows, followed by India (1,046) and the United Kingdom (806). This suggests that Netflix has a significant focus on American content, while also expanding into global markets like India and the UK.
